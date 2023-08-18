@@ -1,0 +1,17 @@
+**/__pycache__/
+driver/
+playwright/driver/
+playwright.egg-info/
+build/
+dist/
+**/*.pyc
+env/
+htmlcov/
+.coverage*
+.DS_Store
+.vscode/
+.eggs
+_repo_version.py
+coverage.xml
+junit/
+htmldocs/
